@@ -32,13 +32,7 @@ Python, Assembly Language
 
 
 Git, VS Code, Git Bash, MySQL
-Data Structures & Algorithms: DFS, BFS, A*, Minimax
-
-
-◙ Web Development:\
-
-
-Building an online pharmacy price comparison system
+Data Structures & Algorithms: DFS, BFS, A*, Minimax,Web Development:\Building an online pharmacy price comparison system
 
 ◙ Collaborative Tools:
 
