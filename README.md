@@ -33,6 +33,8 @@ Python, Assembly Language
 
 Git, VS Code, Git Bash, MySQL
 Data Structures & Algorithms: DFS, BFS, A*, Minimax
+
+
 ◙ Web Development:\
 
 
